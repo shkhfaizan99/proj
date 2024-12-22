@@ -1,3 +1,6 @@
+
+import React from 'react';
+
 import { Box } from "@chakra-ui/layout";
 import "./styles.css";
 import SingleChat from "./SingleChat";
